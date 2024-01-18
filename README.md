@@ -1,16 +1,2 @@
-# hum261
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Open Source Education
+The proposed activity, "Open Source Learning for Job Skills," is designed as an interactive initiative that seamlessly blends hands-on learning through an "Open Source Project" with practical "Job Skills Training." This dynamic combination aims to provide participants with a comprehensive experience, allowing them to contribute to real-world projects while improving the skills necessary for success in the tech industry.
